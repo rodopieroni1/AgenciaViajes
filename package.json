@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
-    "start": "node index.js",
-    "build":"vue-cli-service build"
+    "start": "node index.js"
   },
   "type": "module",
   "author": "Rodo Pieroni",
